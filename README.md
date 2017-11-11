@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 This implements an Extended Kalmanfilter that is able to do a sensor fusion of given sensor readings from radar and lidar object detections.
 
-When its being run and compared agains ground truth its px, py, vx, and vy RMSE is less ot the values [.11, .11, 0.52, 0.52] as required for passing.
+When its being run and compared against ground truth data its px, py, vx, and vy RMSE is less than [.11, .11, 0.52, 0.52] as required for passing.
 
 ---
 
